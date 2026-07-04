@@ -1,5 +1,4 @@
-## Hi there 👋
-## All minor Projects and Weekly Assessments are submitted here
+## Hi there 👋. All minor Projects and Weekly Assessments are submitted here
 
 <!--
 **SamratUbhe/SamratUbhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
